@@ -1,0 +1,7 @@
+python=3.10.12
+ultralytics=8.0.196
+roboflow
+yolo
+cv2
+cv2_imshow
+matplotlib.pyplot
